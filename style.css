@@ -13,18 +13,12 @@
 @media only screen and (min-width: 410px) {
     .medium1 {
         width: 66%;
-        text-align: center;
-        margin: 0 auto;
     }
     .medium2 {
         width: 33%;
-        text-align: center;
-        margin: 0 auto;
     }
     .medium3 {
         width: 100%;
-        text-align: center;
-        margin: 0 auto;
     }
     body{
         background-color: rgb(127, 168, 255);
