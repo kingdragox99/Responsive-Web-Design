@@ -2,7 +2,7 @@
 
 @media only screen and (max-width: 410px) {
     body{
-        background-color: rgb(131, 255, 127);
+        background-color: rgb(255, 127, 127);
         font-size: large;
         padding: 10px;
     }
@@ -21,7 +21,7 @@
         width: 100%;
     }
     body{
-        background-color: rgb(127, 168, 255);
+        background-color: rgb(148, 255, 127);
         font-size: medium;
         padding: 50px;
     }
@@ -35,7 +35,7 @@
     }
 
     body{
-        background-color: rgb(255, 127, 127);
+        background-color: rgb(127, 168, 255);
         font-size: small;
     }
     .master{
