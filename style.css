@@ -1,0 +1,51 @@
+/* GSM */
+
+@media only screen and (max-width: 410px) {
+    body{
+        background-color: rgb(131, 255, 127);
+        font-size: large;
+        padding: 10px;
+    }
+}
+
+/* Tablette */
+
+@media only screen and (min-width: 410px) {
+    .medium1 {
+        width: 66%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .medium2 {
+        width: 33%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .medium3 {
+        width: 100%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    body{
+        background-color: rgb(127, 168, 255);
+        font-size: medium;
+        padding: 50px;
+    }
+}
+
+/* PC */
+
+@media only screen and (min-width: 768px) {
+    .large{
+        width: 100%;
+    }
+
+    body{
+        background-color: rgb(255, 127, 127);
+        font-size: small;
+    }
+    .master{
+        display: flex;
+	    justify-content: center;
+    }
+}
